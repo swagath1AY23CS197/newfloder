@@ -1,2 +1,8 @@
 swagat
+<<<<<<< HEAD
 swagt
+=======
+swagat:wq
+swagt
+swagat
+>>>>>>> feature
